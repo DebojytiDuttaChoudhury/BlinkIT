@@ -96,7 +96,7 @@ This project focuses on analyzing sales data from BlinkIT, a grocery retail chai
 - **DAX_Measures.Pdf**: [All DAX formulas used in the project.](https://drive.google.com/file/d/10FdqU4vYveZP-nLoku39AApfR9Gl44RW/view?usp=sharing)
 - **Raw Data.Csv**: [uncleaned Data.](https://drive.google.com/file/d/1Z5SJQLy83ZS1PmxuCW9H1C3XeEf_Ovu_/view?usp=sharing)
 - **Cleaned Data.Csv**: [Cleaned Data.](https://drive.google.com/file/d/1QHd8i0wm9Dqfhpltadi4q1-kHnL3Nxf0/view?usp=sharing)
-- **Presentration.Mp4**: [Download](https://drive.google.com/file/d/1fpjmp5JtBIGh1Y-j7jVEuZolpTIQ_2Lc/view?usp=sharing)
+- **Presentation.Mp4**: [Download](https://drive.google.com/file/d/1fpjmp5JtBIGh1Y-j7jVEuZolpTIQ_2Lc/view?usp=sharing)
  
 ## Details
 [Debojyti Dutta Choudhury]

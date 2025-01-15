@@ -91,13 +91,16 @@ This project focuses on analyzing sales data from BlinkIT, a grocery retail chai
 ---
 
 ## Files Included
-- **Dashboard.pbix**: [Power BI dashboard file.]([https://www.linkedin.com/in/debojyti-dutta-choudhury](https://drive.google.com/file/d/1sJ-uf5X8exwDRDhYOI0D5PpSf9KQv5HO/view?usp=sharing))
+- **Dashboard.pbix**: [Power BI dashboard file.]([https://www.linkedin.com/in/debojyti-dutta-choudhury](https://drive.google.com/file/d/1sJ-uf5X8exwDRDhYOI0D5PpSf9KQv5HO/view?usp=sharing)
 - **SQL Scripts.sql**: [SQL queries for data preparation.](https://drive.google.com/file/d/1gTCTTSRRTw2xjo-WlWCanj05CqCjKZje/view?usp=sharing)
 - **DAX_Measures.Pdf**: [All DAX formulas used in the project.](https://drive.google.com/file/d/10FdqU4vYveZP-nLoku39AApfR9Gl44RW/view?usp=sharing)
 - **Raw Data.Csv**: [uncleaned Data.](https://drive.google.com/file/d/1Z5SJQLy83ZS1PmxuCW9H1C3XeEf_Ovu_/view?usp=sharing)
 - **Cleaned Data.Csv**: [Cleaned Data.](https://drive.google.com/file/d/1QHd8i0wm9Dqfhpltadi4q1-kHnL3Nxf0/view?usp=sharing)
+- **Presentration.Mp4**: [Download](https://drive.google.com/file/d/1fpjmp5JtBIGh1Y-j7jVEuZolpTIQ_2Lc/view?usp=sharing)
 
-## Author
-[Your Name]  
+## Details
+[Debojyti Dutta Choudhury]
+**Contact No**: [7908657643]
 **Role**: Aspiring Data Analyst  
-**Contact**: [Your Email Address]
+**Contact**: [Email Address](debojyti.work@gmail.com)
+              [LinkdIn](https://www.linkedin.com/in/debojyti-dutta-choudhury)
